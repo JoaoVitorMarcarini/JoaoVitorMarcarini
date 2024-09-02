@@ -1,6 +1,6 @@
 # João Vitor Vieira Marcarini
 ## Bem vindo ao meu perfil GitHub 👋
-Tenho 24 anos, moro no Espirito Santos. Atualmente assinante da [alura](https://www.alura.com.br/), onde venho tentando me especializar na área de data science.
+Tenho 24 anos, moro no Espirito Santos. Atualmente aluno do curso Data Science ON da [Faculdade de Informática e Administação - FIAP]((https://www.fiap.com.br/)), sou um aluno disciplinado, com rotina bem definida para meus estudos, comunicativo, sempre disposto a ajudar meus colegas com suas duvidas.
 
 1. :wrench: Ferramentas e tecnologias:
 
